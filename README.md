@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikandan Balusamy</h1>
-<h3 align="center">Data Scientist Experience in Health care and Finance industry</h3>
+<h3 align="center">Data-driven problem solver | Leveraging predictive analytics to uncover hidden patterns and forecast future trends. Proficient in Python, R, SQL, Power BI, and Tableau. Passionate about using data to drive informed decision-making and optimize business outcomes.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
