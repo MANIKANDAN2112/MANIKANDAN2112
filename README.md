@@ -3,10 +3,6 @@
 
 Data-driven problem solver with 8+ years of experience leveraging advanced analytics, including predictive modeling, to uncover hidden patterns, forecast future trends, and drive strategic decision-making within the **banking and insurance sectors**.
 
-**Key Contributions:**
-**Connect with me to discuss how my analytical skills and deep understanding of the banking and insurance industries can contribute to your data initiatives.**
-
-**Check out my projects:**
 </h3>
 
 <h3 align="left">Connect with me:</h3>
