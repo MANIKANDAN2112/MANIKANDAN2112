@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikandan Balusamy</h1>
-<h3 align="center">### Senior Data Analyst | Banking & Insurance Expertise | Predictive Analytics & Business Intelligence
+<h3 align="center"> Senior Data Analyst | Banking & Insurance Expertise | Predictive Analytics & Business Intelligence
 
 Data-driven problem solver with 8+ years of experience leveraging advanced analytics, including predictive modeling, to uncover hidden patterns, forecast future trends, and drive strategic decision-making within the **banking and insurance sectors**.
 
