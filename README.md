@@ -4,14 +4,6 @@
 Data-driven problem solver with 8+ years of experience leveraging advanced analytics, including predictive modeling, to uncover hidden patterns, forecast future trends, and drive strategic decision-making within the **banking and insurance sectors**.
 
 **Key Contributions:**
-
-* **Predictive Modeling:** Developed and deployed [mention a specific type of model, e.g., churn prediction model, fraud detection algorithm] using Python (scikit-learn, pandas, NumPy) that resulted in [quantifiable achievement, e.g., a 15% reduction in churn, a 10% increase in fraud detection accuracy].
-* **Business Intelligence & Insights:** Designed and implemented comprehensive BI solutions using Power BI and Tableau to visualize key performance indicators (KPIs) related to [mention specific areas in banking/insurance, e.g., customer acquisition cost, risk assessment, claims processing efficiency], leading to [quantifiable achievement, e.g., improved stakeholder understanding, identification of key areas for optimization].
-* **Data Wrangling & ETL:** Proficient in SQL for data extraction, transformation, and loading (ETL) from various data sources (e.g., relational databases, data warehouses). Experience with [mention specific ETL tools or processes, e.g., Azure Data Factory].
-* **Statistical Analysis:** Strong foundation in statistical methods and hypothesis testing using R (dplyr, ggplot2) to provide robust analytical insights.
-* **Automation:** Developed Python scripts to automate data processing and reporting tasks, improving efficiency by [quantifiable achievement, e.g., reducing manual effort by 40%].
-* **Problem Solving:** Proven ability to analyze complex business challenges within the financial services domain and translate them into actionable data-driven solutions.
-
 **Connect with me to discuss how my analytical skills and deep understanding of the banking and insurance industries can contribute to your data initiatives.**
 
 **Check out my projects:**
