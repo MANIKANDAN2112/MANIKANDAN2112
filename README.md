@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikandan Balusamy</h1>
-<h3 align="center">🎯 Senior Data Analyst | 📊 BI & Predictive Analytics Expert | 🏦 Banking & Insurance Domain</h3>
+<h3 align="center">🎯 Senior Data Analyst | 📊 Power BI & Advanced Analytics Expert | 🏦 Banking|Insurance|FMCG|Sales Domain &</h3>
 
 <p align="center">
 Data-driven problem solver with <strong>8+ years of experience</strong> delivering insights and building end-to-end analytics solutions using <strong>Power BI, Azure, Python, SQL, and Machine Learning</strong>. Passionate about transforming raw data into actionable intelligence for <strong>Banking and Insurance</strong> clients.
