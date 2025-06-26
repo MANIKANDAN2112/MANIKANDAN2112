@@ -2,8 +2,7 @@
 <h3 align="center">🎯 Senior Data Analyst | 📊 Power BI & Advanced Analytics Expert | 🏦 Banking|Insurance|FMCG|Sales Domain &</h3>
 
 <p align="center">
-Data-driven problem solver with <strong>8+ years of experience</strong> delivering insights and building end-to-end analytics solutions using <strong>Power BI, Azure, Python, SQL, and Machine Learning</strong>. Passionate about transforming raw data into actionable intelligence for <strong>Banking and Insurance</strong> clients.
-</p>
+Seasoned Business Intelligence & Data Analyst (12+ years) building end-to-end analytics solutions. I transform raw data into actionable insights and Key Performance Indicators (KPIs) using Power BI, Azure, Python, SQL, and Machine Learning. Expertise across Banking, Insurance, FMCG, and Sales domains</p>
 
 ---
 
